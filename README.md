@@ -1,2 +1,3 @@
 # demo-renovate
+
 Renovate demo
