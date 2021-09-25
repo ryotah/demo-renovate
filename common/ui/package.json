@@ -1,0 +1,12 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "Renovate demo",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@storybook/addon-essentials": "6.3.1",
+    "@storybook/vue": "6.3.1"
+  }
+}

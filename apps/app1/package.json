@@ -1,0 +1,14 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "Renovate demo",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "app2": "workspace:^1.0.0",
+    "axios": "0.19",
+    "vue": "^2.5.22",
+    "vue-router": "3.5.0"
+  }
+}
