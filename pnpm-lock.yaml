@@ -17,22 +17,22 @@ importers:
       app2: workspace:^1.0.0
       axios: '0.19'
       vue: ^2.5.22
-      vue-router: 3.5.0
+      vue-router: 3.5.2
     dependencies:
       app2: link:../app2
       axios: 0.19.2
       vue: 2.6.14
-      vue-router: 3.5.0
+      vue-router: 3.5.2
 
   apps/app2:
     specifiers:
       axios: '0.19'
       vue: ^2.5.22
-      vue-router: 3.5.0
+      vue-router: 3.5.2
     dependencies:
       axios: 0.19.2
       vue: 2.6.14
-      vue-router: 3.5.0
+      vue-router: 3.5.2
 
   common/ui:
     specifiers:
@@ -5474,6 +5474,7 @@ packages:
 
   /bindings/1.5.0:
     resolution: {integrity: sha512-p2q/t/mhvuOj/UeLlV6566GD/guowlr0hHxClI0W9m7MWYkL1F0hLo+0Aexs9HSPCtR1SXQ0TD3MMKrXZajbiQ==}
+    requiresBuild: true
     dependencies:
       file-uri-to-path: 1.0.0
     dev: false
@@ -7165,6 +7166,7 @@ packages:
 
   /file-uri-to-path/1.0.0:
     resolution: {integrity: sha512-0Zt+s3L7Vf1biwWZ29aARiVYLx7iMGnEUl9x33fbB/j3jR81u/O2LbqK+Bm1CDSNDKVtJ/YjwY7TUd5SkeLQLw==}
+    requiresBuild: true
     dev: false
     optional: true
 
@@ -9638,6 +9640,7 @@ packages:
 
   /nan/2.15.0:
     resolution: {integrity: sha512-8ZtvEnA2c5aYCZYd1cvgdnU6cqwixRoYg70xPLWUws5ORTa/lnw+u4amixRS/Ac5U5mQVgp9pnlSUnbNWFaWZQ==}
+    requiresBuild: true
     dev: false
     optional: true
 
@@ -12716,8 +12719,8 @@ packages:
       camelcase: 5.3.1
     dev: false
 
-  /vue-router/3.5.0:
-    resolution: {integrity: sha512-QYrPzHMJiJCq20ezhlGok+NbrmjzhQDG6pnpJaD14Eg3NvT07s3acYz2ktxJ7vGHd/Ts4TgG9Tt8a2PA+Js5fw==}
+  /vue-router/3.5.2:
+    resolution: {integrity: sha512-807gn82hTnjCYGrnF3eNmIw/dk7/GE4B5h69BlyCK9KHASwSloD1Sjcn06zg9fVG4fYH2DrsNBZkpLtb25WtaQ==}
     dev: false
 
   /vue/2.6.14:
