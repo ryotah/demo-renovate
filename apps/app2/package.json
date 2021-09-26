@@ -8,6 +8,6 @@
   "dependencies": {
     "axios": "0.19",
     "vue": "^2.5.22",
-    "vue-router": "3.5.0"
+    "vue-router": "3.5.2"
   }
 }
