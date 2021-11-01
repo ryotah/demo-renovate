@@ -1,1 +1,6 @@
 * @ryotah @shiruco
+
+# https://github.com/apps/renovate-approve
+# https://github.com/renovatebot/renovate-approve-bot/issues/23#issuecomment-588035624
+/package-lock.json app/renovate-approve
+/package.json app/renovate-approve
